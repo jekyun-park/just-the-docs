@@ -1,5 +1,6 @@
 # coding: utf-8
 
+
 Gem::Specification.new do |spec|
   spec.name          = "just-the-docs"
   spec.version       = "0.2.7"
